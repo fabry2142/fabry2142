@@ -30,8 +30,7 @@ I am a Computer Science Student with some knowledge of Full Stack Development , 
 
 
 ### 🛠️ Languages and Tools :
-Programming  Language  {C++, Java, Python3} Databases { OracleDB, Neo4j, phpMyAdmin,} Web Development
-{CSS3, HTML5, PHP, JS}
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
