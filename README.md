@@ -1,7 +1,7 @@
 # fdfwm
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/EsSosZDDbxTBR7jAwk/giphy.gif?cid=ecf05e47hsjpaxjkwndrumrrwwmpxersndh8y4j92jba2t5q&rid=giphy.gif&ct=s" width="100"/>
+  <img src="https://media.giphy.com/media/w4ZEotujbVDLrYsYHc/giphy.gif?cid=ecf05e47i3t80mxirmm5hacedaw6tgvbbp2jd2rhs2edyiaa&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
 <div id="header" align="left">
