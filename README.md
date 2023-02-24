@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### 👨‍💻: About Me :
+### 👨‍💻: About Me : I am a Computer Science Student with some knowledge of Full Stack Development , every day i build my experience  
 
 ###  My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdfwm&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
