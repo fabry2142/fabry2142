@@ -26,8 +26,6 @@
 ### 👨‍💻: About Me : 
 I am a Computer Science Student with some knowledge of Full Stack Development , every day i build my experience practicing with some new project. To became better every day
 
-###  My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fdfwm)](https://git.io/streak-stats)
 
 
 ### 🛠️ Languages and Tools :
