@@ -1,11 +1,13 @@
 # fdfwm
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/w4ZEotujbVDLrYsYHc/giphy.gif?cid=ecf05e47i3t80mxirmm5hacedaw6tgvbbp2jd2rhs2edyiaa&rid=giphy.gif&ct=s" width="100"/>
-</div>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif?cid=ecf05e47ve5bjrl3qd5j90mmb24qq2ec7jny0gx1uzgs97q3&rid=giphy.gif&ct=s" width="100"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/w4ZEotujbVDLrYsYHc/giphy.gif?cid=ecf05e47i3t80mxirmm5hacedaw6tgvbbp2jd2rhs2edyiaa&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
 <div id="badges" align="center">
