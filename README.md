@@ -24,7 +24,7 @@
 </h1>
 
 ### 👨‍💻: About Me : 
-I am a Computer Science Student with some knowledge of Full Stack Development , every day i build my experience practicing with some new project. To became better every day
+I'm begin has a Computer Science Student, I didn't want to be a programmer who just knew enough to get a job and scrape by. I want to be a programmer to deeply understood the craft. Maybe i just wanted a degree on my resume, whatever.. I learning from the ground up, I'm also follow courses and lectures where available online. I have some knowledge of Full Stack Development, IoT and Home automation and some knoledge of DBMS. Every day i build my experience practicing with some new project. To became better every day
 
 
 
