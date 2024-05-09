@@ -1,55 +1,50 @@
-<!DOCTYPE html>
-<html>
 
-<head>
-    <link rel="stylesheet" href="css/styles.css">
- <title> Tutorial-ext-rules-oh3 </title>
-     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# I'm Fabrizio Donato
 
-</head>
-<body>
-<h1 style="color:orange;">Demo-Local-Manager</h1>
-<div class="vertical-menu">
-    <a href="tutorial.html" class="active" style="color:blue;">Tutorial</a>
-    <a href="login.html" class="active" style="color:blue;">Login</a>
-    <a href="register.html">Signup</a>
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/8m4gPv1UFz1jmiCtKd/giphy.gif?cid=ecf05e47ve5bjrl3qd5j90mmb24qq2ec7jny0gx1uzgs97q3&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
-
-
-<h1>Hello Welcome!</h1>
-    <h1>Tutorial for a simple GUI Process for your Managing Consumption </h1>
-<h2>After you read this page, click on Signup form in the menu </h2>
-
-<h3 style="color:blue;">Here you can see some pictures examples</h3>
-
-<div class="row">
-  <div class="column">
-    <img src="screen2.png" alt="Snow" style="width:70%">
-  </div>
-  <div class="column">
-    <img src="screen3.png" alt="Forest" style="width:80%">
-  </div>
-  <div class="column">
-    <img src="screen4.png" alt="Mountains" style="width:80%">
-  </div>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/w4ZEotujbVDLrYsYHc/giphy.gif?cid=ecf05e47i3t80mxirmm5hacedaw6tgvbbp2jd2rhs2edyiaa&rid=giphy.gif&ct=s" width="100"/>
 </div>
 
-<p style="color:red;">This paragraph contains a short Tutorial </p>
-<h4> Dependency for using properly this  page are Listed Here Marked >> #X#</h4>
-<h3>>#1# Go to Openhab webpage on this link https://www.openhab.org/</h3>
-<h4>Go to download section and choose your System</h4>
-<h4>After Initialize Openhab open your Webpage on Localhost:8080 </h4>
-<h4>Consult the Documentation on this Link: https://www.openhab.org/docs/</h4>
-<picture>
-<img src="Screen1.png" alt="Main Openhab" style="width:400px;height:200px;" class="responsive" >
-</picture>
-<h3>>#2# Now you have to add new Binding Called Openhab Cloud Connector</h3>
-<h3>>#3# Now you have to Register on this site https://myopenhab.org/</h3>
-<h4>-1st Step is to insert your Email and Password</h4>
-<h4>-2st Step is to insert the UUID and Secret Code from your Openhab Folder Files, Check Documentation for Help!</h4>
+<div id="badges" align="center">
+ 
+  <a href="https://twitter.com/Fabry2142">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-<h2 style="color:purple;">This page is created under MIT License from Fabrizio.D</h2>
-</body>
-</html>
+<h1>
+  Hey There!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### 👨‍💻: About Me : 
+I'm begin has a Computer Science Student, I didn't want to be a programmer who just knew enough to get a job and scrape by. I want to be a programmer to deeply understood the craft. Maybe i just wanted a degree on my resume, whatever.. I learning from the ground up, I'm also follow courses and lectures where available online. I have some knowledge of Full Stack Development, IoT and Home automation and some knoledge of DBMS. Every day i build my experience practicing with some new project. To became better every day
+
+
+
+### 🛠️ Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
